@@ -1,4 +1,4 @@
-package solutions;
+package com.code.challenges.solutions;
 
 import java.io.*;
 import java.util.*;
@@ -17,9 +17,8 @@ public class QueueStacks {
         Stack<T> stackOldestOnTop = new Stack<T>();
 
         public void enqueue(T value) { // Push onto newest stack
-            //T p = (T)stackOldestOnTop.peek();
             stackNewestOnTop.add(value);
-            //stackOldestOnTop.pop();
+       
         }
 
         public T peek() {

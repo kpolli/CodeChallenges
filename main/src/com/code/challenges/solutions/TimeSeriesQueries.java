@@ -1,4 +1,4 @@
-package goldmansacs;
+package com.code.challenges.solutions;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package solutions;
+package com.code.challenges.solutions;
 
 import java.util.Scanner;
 
@@ -32,7 +32,7 @@ public class TimeComplexity {
 	    return true;
 	}
 	
-	private static boolean is_prime(int n){
+	private static boolean isprime(int n){
 	    return java.math.BigInteger.valueOf(n).isProbablePrime(1);
 	    
 	}

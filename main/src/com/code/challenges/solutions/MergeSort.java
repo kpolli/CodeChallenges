@@ -1,4 +1,4 @@
-package tanium;
+package com.code.challenges.solutions;
 
 public class MergeSort {
 	

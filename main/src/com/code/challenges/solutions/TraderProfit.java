@@ -1,4 +1,4 @@
-package goldmansacs;
+package com.code.challenges.solutions;
 
 public class TraderProfit {
 	

@@ -1,4 +1,4 @@
-package goldmansacs;
+package com.code.challenges.solutions;
 
 import java.util.ArrayList;
 import java.util.Iterator;

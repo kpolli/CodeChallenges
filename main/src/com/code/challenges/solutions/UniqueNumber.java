@@ -1,4 +1,4 @@
-package solutions;
+package com.code.challenges.solutions;
 
 import java.util.Arrays;
 

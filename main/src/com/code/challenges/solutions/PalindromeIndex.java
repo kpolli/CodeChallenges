@@ -1,7 +1,5 @@
-package solutions;
+package com.code.challenges.solutions;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
 import java.util.Stack;
 
 public class PalindromeIndex {
@@ -147,10 +145,8 @@ public class PalindromeIndex {
     }
 
     public static void main(String[] args) {
-    		//String s = "xaxbbbxx";
-            //int result = makingAnagrams("cde", "abcc");
+    		
             System.out.println(longestPalindrome("abb"));
-            //System.out.println(result);
         
     }
 
